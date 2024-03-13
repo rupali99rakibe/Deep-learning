@@ -24,14 +24,9 @@ Improving model performance and generalization with augmented data.
 Practical examples and case studies demonstrating the implementation of deep learning models for real-world tasks.
 Datasets and analysis techniques to reinforce learning.
 Requirements
-Make sure you have the following dependencies installed:
-
 Python (3.x recommended)
 TensorFlow or PyTorch (for building deep learning models)
 NumPy, Matplotlib (for data manipulation and visualization)
 Optional: CUDA and cuDNN for GPU support (recommended for faster training)
 Contributing
 Contributions to this repository are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
-License
-This repository is licensed under the MIT License. See the LICENSE file for details.
