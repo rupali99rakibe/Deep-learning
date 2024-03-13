@@ -5,7 +5,7 @@ Deep Learning: Build-a-Model with ANN, CNN, and Data Augmentation
 Welcome to the Deep Learning repository! This repository serves as a comprehensive resource for building deep learning models using Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs), along with techniques such as data augmentation.
 
 Overview
-This repository covers the implementation of deep learning models for various tasks, including image classification, object detection, and more. Whether you're new to deep learning or looking to enhance your skills, you'll find everything you need to build powerful models here.
+This repository covers the implementation of deep learning models for various tasks, including image classification, object detection, and more. 
 
 Contents
 1. Artificial Neural Networks (ANNs)
